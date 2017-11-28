@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Translate code",
+        "command": "unabstracter:translate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Abstract Coder",
+          "submenu": [
+            {
+              "label": "Translate code",
+              "command": "unabstracter:translate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
