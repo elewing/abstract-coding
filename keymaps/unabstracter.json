@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "cmd-enter": "unabstracter:translate"
+    "cmd-t": "unabstracter:translate"
   }
 }
